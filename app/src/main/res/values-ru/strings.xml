@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фото фильтры</string>
+    <string name="saved_images_button">Сохраненные</string>
+    <string name="edit_new_image_button">Редактировать</string>
+    <string name="lets_create">Давайте создадим что то новое!</string>
+    <string name="image_filters">Фильтры</string>
+    <string name="apply_filter">Сохранить</string>
+    <string name="saved_images">Сохраненные</string>
+    <string name="back">Назад</string>
+</resources>
